@@ -1,0 +1,1 @@
+This repository contains an example of a subtle bug in R that can be tricky to debug: calling a function without first loading the package it belongs to.  The `bug.R` file demonstrates the error, while `bugSolution.R` provides the correct solution. This type of error is often overlooked, especially when working with many packages.
